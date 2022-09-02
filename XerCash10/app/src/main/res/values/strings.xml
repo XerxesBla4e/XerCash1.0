@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">XerCash1.0</string>
+    <string name="welcome_to_yolifeline">Welcome to YoLifeline</string>
+    <string name="username">Username</string>
+    <string name="sign_in_with_google">sign in with google</string>
+    <string name="login">LogIn</string>
+    <string name="Email" />
+    <string name="email">email</string>
+    <string name="signup">SignUp</string>
+    <string name="signin">SignIn</string>
+
+    <string name="email2">Email</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password">password</string>
+    <string name="confirm_password">confirm password</string>
+
+</resources>

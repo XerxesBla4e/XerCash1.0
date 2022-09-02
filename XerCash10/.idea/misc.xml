@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/XerxesCodes/AndroidStudioProjects/XerCash10/app/src/main/res/drawable-anydpi/ic_stat2.xml" value="0.189" />
+        <entry key="..\:/Users/XerxesCodes/AndroidStudioProjects/XerCash10/app/src/main/res/drawable-v24/account.xml" value="0.1" />
+        <entry key="..\:/Users/XerxesCodes/AndroidStudioProjects/XerCash10/app/src/main/res/drawable-v24/button_style.xml" value="0.1" />
+        <entry key="..\:/Users/XerxesCodes/AndroidStudioProjects/XerCash10/app/src/main/res/drawable/background_toolbar.xml" value="0.1" />
+        <entry key="..\:/Users/XerxesCodes/AndroidStudioProjects/XerCash10/app/src/main/res/drawable/edit_text_style.xml" value="0.1905" />
+        <entry key="..\:/Users/XerxesCodes/AndroidStudioProjects/XerCash10/app/src/main/res/drawable/emailsvg.xml" value="0.1" />
+        <entry key="..\:/Users/XerxesCodes/AndroidStudioProjects/XerCash10/app/src/main/res/layout/activity_add_investment.xml" value="0.25" />
+        <entry key="..\:/Users/XerxesCodes/AndroidStudioProjects/XerCash10/app/src/main/res/layout/activity_add_loan.xml" value="0.21" />
+        <entry key="..\:/Users/XerxesCodes/AndroidStudioProjects/XerCash10/app/src/main/res/layout/activity_investment.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/XerxesCodes/AndroidStudioProjects/XerCash10/app/src/main/res/layout/activity_item.xml" value="0.25" />
+        <entry key="..\:/Users/XerxesCodes/AndroidStudioProjects/XerCash10/app/src/main/res/layout/activity_loan.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/XerxesCodes/AndroidStudioProjects/XerCash10/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/XerxesCodes/AndroidStudioProjects/XerCash10/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/XerxesCodes/AndroidStudioProjects/XerCash10/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/XerxesCodes/AndroidStudioProjects/XerCash10/app/src/main/res/layout/activity_shopping.xml" value="0.25" />
+        <entry key="..\:/Users/XerxesCodes/AndroidStudioProjects/XerCash10/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/Users/XerxesCodes/AndroidStudioProjects/XerCash10/app/src/main/res/layout/activity_stats.xml" value="0.1" />
+        <entry key="..\:/Users/XerxesCodes/AndroidStudioProjects/XerCash10/app/src/main/res/layout/activity_tranfer.xml" value="0.22" />
+        <entry key="..\:/Users/XerxesCodes/AndroidStudioProjects/XerCash10/app/src/main/res/layout/activity_transaction.xml" value="0.25" />
+        <entry key="..\:/Users/XerxesCodes/AndroidStudioProjects/XerCash10/app/src/main/res/layout/activity_website.xml" value="0.1956521739130435" />
+        <entry key="..\:/Users/XerxesCodes/AndroidStudioProjects/XerCash10/app/src/main/res/layout/dialog_add_transaction.xml" value="0.15" />
+        <entry key="..\:/Users/XerxesCodes/AndroidStudioProjects/XerCash10/app/src/main/res/layout/dialog_select_item.xml" value="0.22" />
+        <entry key="..\:/Users/XerxesCodes/AndroidStudioProjects/XerCash10/app/src/main/res/layout/list_item_investment.xml" value="0.25" />
+        <entry key="..\:/Users/XerxesCodes/AndroidStudioProjects/XerCash10/app/src/main/res/layout/list_item_items.xml" value="0.1" />
+        <entry key="..\:/Users/XerxesCodes/AndroidStudioProjects/XerCash10/app/src/main/res/layout/list_item_loan.xml" value="0.33" />
+        <entry key="..\:/Users/XerxesCodes/AndroidStudioProjects/XerCash10/app/src/main/res/layout/listitem_transaction.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
